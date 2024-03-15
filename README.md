@@ -3,8 +3,6 @@
 - 📖 Estudando atualmente: C#
 - 😀 Nome: Mateus Henrique Ribeiro Caldas
 - ✨ Idade: 15 anos
-- 🤔 Ainda vou estudar: JS,CSS,HTML e Python...
-- 👍 Pronomes: ele/dele
   
 <h2>Status</h2>
 <br>
