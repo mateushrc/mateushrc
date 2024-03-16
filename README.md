@@ -14,8 +14,8 @@
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateushrc&theme=dracula&hide_border=false&layout=compact"/>
   </a>
 </div>
-
 <h2></h2>
+
 ![Dino Gif](https://gizmodo.uol.com.br/wp-content/blogs.dir/8/files/2018/09/dino-chrome.gif)
 <h2></h2>
 
