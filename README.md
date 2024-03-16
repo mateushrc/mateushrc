@@ -8,15 +8,14 @@
 <br>
 <div>
   <a href="https://github.com/mateushrc">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mateushrc&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/></a>
-  <a>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateushrc&theme=dracula&hide_border=false&&layout=compact"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mateushrc&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+  </a>
+  <a href="https://github.com/mateushrc">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateushrc&theme=dracula&hide_border=false&layout=compact"/>
   </a>
 </div>
 
 <h2></h2>
-<br>
-  
 ![Dino Gif](https://gizmodo.uol.com.br/wp-content/blogs.dir/8/files/2018/09/dino-chrome.gif)
 <h2></h2>
 
