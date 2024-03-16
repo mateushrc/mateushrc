@@ -42,7 +42,7 @@
 <h2>Skills</h2>
 
 <div style="display: inline_block"><br>
-  <img align="center" src="https://skillicons.dev/icons?i=cs,dotnet">
+  <img align="center" src="https://skillicons.dev/icons?i=cs,dotnet,lua">
 </div>
 <h2>Contatos</h2>
 <p><b>mat3us.hrc@gmail.com</b></p>
