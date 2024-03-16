@@ -3,7 +3,17 @@
 - 📖 Estudando atualmente: C#
 - 😀 Nome: Mateus Henrique Ribeiro Caldas
 - ✨ Idade: 15 anos
-  
+<br>
+<div style="display: flex; justify-content: space-around;">
+  <a href="https://stardewvalleywiki.com/mediawiki/images/2/22/White_Chicken.png"><img src="https://stardewvalleywiki.com/mediawiki/images/2/22/White_Chicken.png" style="width: 48px;"></a>
+  <a href="https://stardewvalleywiki.com/mediawiki/images/f/fd/Brown_Chicken.png"><img src="https://stardewvalleywiki.com/mediawiki/images/f/fd/Brown_Chicken.png" style="width: 48px;"></a>
+  <a href="https://stardewvalleywiki.com/mediawiki/images/6/61/Blue_Chicken.png"><img src="https://stardewvalleywiki.com/mediawiki/images/6/61/Blue_Chicken.png" style="width: 48px;"></a>
+</a>
+  <a href="https://stardewvalleywiki.com/mediawiki/images/6/67/Void_Chicken.png"><img src="https://stardewvalleywiki.com/mediawiki/images/6/67/Void_Chicken.png" style="width: 48px;"></a>
+</a>
+  <a href="https://stardewvalleywiki.com/mediawiki/images/3/3c/Golden_Chicken.png"><img src="https://stardewvalleywiki.com/mediawiki/images/3/3c/Golden_Chicken.png" style="width: 48px;"></a>
+</div>
+
 <h2>Status</h2>
 <br>
 <div>
@@ -38,3 +48,4 @@
 </div>
 
  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+
