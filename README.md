@@ -25,9 +25,7 @@
 
 <h2>Status</h2>
 <br>
- <div>
-    <img align="right" width="440" height="238" alt="GIF" src="https://media.tenor.com/j5748oCEaUsAAAAC/cyber-punk-cyberpunk-anime.gif"/>
-  </div>
+  
 <div>
   <a href="https://github.com/mateushrc">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mateushrc&count_private=true&include_all_commits=true&show_icons=true&theme=dark&hide_border=false&show_owner=true"/>
