@@ -28,7 +28,7 @@
   
 <div>
   <a href="https://github.com/mateushrc">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mateushrc&count_private=true&include_all_commits=true&show_icons=true&theme=dark&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mateushrc&include_all_commits=true&show_icons=true&theme=dark&hide_border=false&show_owner=true"/>
   </a>
   <a href="https://github.com/mateushrc">
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateushrc&theme=dark&hide_border=false&layout=compact"/>
