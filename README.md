@@ -39,9 +39,13 @@
 ![Dino Gif](https://gizmodo.uol.com.br/wp-content/blogs.dir/8/files/2018/09/dino-chrome.gif)
 <h2>Skills</h2>
 
+
+
 <div style="display: inline_block"><br>
-  <img align="center" src="https://skillicons.dev/icons?i=cs,dotnet,lua">
+  <img align="center" src="https://skillicons.dev/icons?i=cs,dotnet">
 </div>
+
+
 <h2>Contatos</h2>
 <p><b>mat3us.hrc@gmail.com</b></p>
 <div> 
