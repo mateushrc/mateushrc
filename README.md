@@ -6,7 +6,6 @@
       <li><b>- 📖</b> Estudando atualmente: C#</li>
       <li><b>- 😀</b> Nome: Mateus Henrique Ribeiro Caldas </li>
       <li><b>- ✨</b> Idade: 15 anos </li>
-      <!-- adicione mais aqui se precisar -->
     </ul>
   </div>
 </div>
@@ -28,10 +27,10 @@
   
 <div>
   <a href="https://github.com/mateushrc">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mateushrc&include_all_commits=true&show_icons=true&theme=material-palenight&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mateushrc&include_all_commits=true&show_icons=true&theme=material-palenight"/>
   </a>
   <a href="https://github.com/mateushrc">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateushrc&theme=material-palenight&hide_border=false&layout=compact"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateushrc&theme=material-palenight"/>
   </a>
 </div>
 <h2></h2>
