@@ -41,7 +41,7 @@
 
 
 <div style="display: inline_block"><br>
-  <img align="center" src="https://skillicons.dev/icons?i=cs,dotnet">
+  <img align="center" src="https://skillicons.dev/icons?i=cs,dotnet,c++">
 </div>
 
 
