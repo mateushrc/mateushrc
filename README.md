@@ -5,7 +5,7 @@
     <ul>
       <li><b>- 📖</b> Estudando atualmente: C# e C++</li>
       <li><b>- 😀</b> Nome: Mateus Henrique Ribeiro Caldas </li>
-      <li><b>- ✨</b> Idade: 15 anos </li>
+      <li><b>- ✨</b> Idade: 15 Anos </li>
     </ul>
   </div>
 </div>
