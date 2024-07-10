@@ -4,7 +4,7 @@
 <div style="display: flex;">
   <div>
     <ul>
-      <li><b>- 📖</b> Estudando atualmente: C# e C++</li>
+      <li><b>- 📖</b> Estudando atualmente: C#,C++ e Python</li>
       <li><b>- 😀</b> Nome: Mateus Henrique Ribeiro Caldas </li>
       <li><b>- ✨</b> Idade: 15 Anos </li>
     </ul>
@@ -42,7 +42,7 @@
 
 
 <div style="display: inline_block"><br>
-  <img align="center" src="https://skillicons.dev/icons?i=cs,dotnet,cpp">
+  <img align="center" src="https://skillicons.dev/icons?i=cs,dotnet,cpp,python">
 </div>
 
 
