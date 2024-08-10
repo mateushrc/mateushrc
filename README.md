@@ -5,38 +5,24 @@
   <div>
     <ul>
       <li><b>- 📖</b> Estudando atualmente: C#,C++ e Python</li>
-      <li><b>- 😀</b> Nome: Mateus Henrique Ribeiro Caldas </li>
+      <li><b>- 💪</b> Nome: Mateus Henrique Ribeiro Caldas </li>
       <li><b>- ✨</b> Idade: 15 Anos </li>
     </ul>
   </div>
 </div>
-
-<br>
-
-<div style="display: flex; justify-content: space-around;">
-  <a href="https://stardewvalleywiki.com/mediawiki/images/2/22/White_Chicken.png"><img src="https://stardewvalleywiki.com/mediawiki/images/2/22/White_Chicken.png" style="width: 48px;"></a>
-  <a href="https://stardewvalleywiki.com/mediawiki/images/f/fd/Brown_Chicken.png"><img src="https://stardewvalleywiki.com/mediawiki/images/f/fd/Brown_Chicken.png" style="width: 48px;"></a>
-  <a href="https://stardewvalleywiki.com/mediawiki/images/6/61/Blue_Chicken.png"><img src="https://stardewvalleywiki.com/mediawiki/images/6/61/Blue_Chicken.png" style="width: 48px;"></a>
-  <a href="https://stardewvalleywiki.com/mediawiki/images/6/67/Void_Chicken.png"><img src="https://stardewvalleywiki.com/mediawiki/images/6/67/Void_Chicken.png" style="width: 48px;"></a>
-  <a href="https://stardewvalleywiki.com/mediawiki/images/3/3c/Golden_Chicken.png"><img src="https://stardewvalleywiki.com/mediawiki/images/3/3c/Golden_Chicken.png" style="width: 48px;"></a>
-</div>
-
-<br>
 
 <h2>Status</h2>
 <br>
   
 <div>
   <a href="https://github.com/mateushrc">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mateushrc&include_all_commits=true&show_icons=true&theme=material-palenight"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mateushrc&include_all_commits=true&show_icons=true&theme=github_dark_dimmed"/>
   </a>
   <a href="https://github.com/mateushrc">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateushrc&theme=material-palenight"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateushrc&theme=github_dark_dimmed"/>
   </a>
 </div>
-<h2></h2>
 
-![Dino Gif](https://gizmodo.uol.com.br/wp-content/blogs.dir/8/files/2018/09/dino-chrome.gif)
 <h2>Skills</h2>
 
 
