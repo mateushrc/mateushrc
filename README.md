@@ -4,9 +4,9 @@
 <div style="display: flex;">
   <div>
     <ul>
-      <li><b>- 📖</b> Estudando atualmente: C#,C++ e Python</li>
+      <li><b>- 📖</b> Conhecimentos: C#,C++,Python,GdScript e pixel artist/li>
       <li><b>- 💪</b> Nome: Mateus Henrique Ribeiro Caldas </li>
-      <li><b>- ✨</b> Idade: 15 Anos </li>
+      <li><b>- ✨</b> Idade: 16 Anos </li>
     </ul>
   </div>
 </div>
