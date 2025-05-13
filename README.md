@@ -4,7 +4,7 @@
 <div style="display: flex;">
   <div>
     <ul>
-      <li><b>- 📖</b> Conhecimentos: C#,C++,Python,Godot e Pixel Artist</li>
+      <li><b>- 📖</b> Conhecimentos: C#,C++,Python,Godot,Gml e Pixel Artist</li>
       <li><b>- 💪</b> Nome: Mateus Henrique Ribeiro Caldas </li>
       <li><b>- ✨</b> Idade: 16 Anos </li>
     </ul>
