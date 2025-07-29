@@ -11,18 +11,6 @@
   </div>
 </div>
 
-<h2>Status</h2>
-<br>
-  
-<div>
-  <a href="https://github.com/mateushrc">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mateushrc&include_all_commits=true&show_icons=true&theme=github_dark_dimmed"/>
-  </a>
-  <a href="https://github.com/mateushrc">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateushrc&theme=github_dark_dimmed"/>
-  </a>
-</div>
-
 <h2>Skills</h2>
 
 
@@ -46,4 +34,3 @@
 </a>
 </div>
 
- ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
