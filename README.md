@@ -20,6 +20,29 @@
   <img src="https://skillicons.dev/icons?i=unity" height="48" alt="unity logo"  />
 </div>
 
+### 🚀 My Recents Projects
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/mateushrc/RockPaperScissors">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mateushrc&repo=RockPaperScissors&theme=tokyonight" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/mateushrc/RetroSnake">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mateushrc&repo=RetroSnake&theme=tokyonight" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/mateushrc/SFML-Collision">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mateushrc&repo=SFML-Collision&theme=tokyonight" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+
 ###
 
 <h4 align="left">Welcome to my profile!<br><br>📖 Knowledge: Backend Developer and GameDev | C#, C++, Python | Git and GitHub<br>💪 Name: Mateus Henrique Ribeiro Caldas<br>✨ Age: 16 years old<br><br>🧠 About Me<br><br>I’m a programmer and pixel artist with a strong interest in game development and technology. I’m curious about several areas of programming, especially C#, C++, and Python.<br><br>I enjoy creating, experimenting, and understanding how things work from game mechanics to software systems. I’m also interested in science, mathematics, and everything that involves logic and creativity.<br><br>Currently, I’m focusing on learning more about backend development and game development while improving my skills as a programmer.</h4>
