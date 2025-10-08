@@ -20,7 +20,7 @@
   <img src="https://skillicons.dev/icons?i=unity" height="48" alt="unity logo"  />
 </div>
 
-### 🚀 My Recents Projects
+<h2 align="center">🚀 My Recents Projects</h2>
 
 <table>
   <tr>
@@ -75,9 +75,8 @@
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mateushrc/mateushrc/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mateushrc/mateushrc/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mateushrc/mateushrc/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://profile-readme-generator.com/assets/pacman.svg">
+  <img alt="pacman contribution graph" src="https://profile-readme-generator.com/assets/pacman.svg">
 </picture>
 
 ###
