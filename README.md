@@ -18,6 +18,8 @@
   <img src="https://skillicons.dev/icons?i=godot" height="48" alt="godot logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=unity" height="48" alt="unity logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=azure" height="48" alt="azure logo"  />
 </div>
 
 <h2 align="center">🚀 My Recents Projects</h2>
