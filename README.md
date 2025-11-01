@@ -25,18 +25,18 @@
 <table>
   <tr>
     <td>
-      <a href="https://github.com/mateushrc/RockPaperScissors">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mateushrc&repo=RockPaperScissors&theme=dark" />
+      <a href="https://github.com/mateushrc/projetos-csharp">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mateushrc&repo=projetos-csharp&theme=dark" />
       </a>
     </td>
     <td>
-      <a href="https://github.com/mateushrc/RetroSnake">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mateushrc&repo=RetroSnake&theme=dark" />
+      <a href="https://github.com/mateushrc/mateushrc">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mateushrc&repo=mateushrc&theme=dark" />
       </a>
     </td>
     <td>
-      <a href="https://github.com/mateushrc/SFML-Collision">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mateushrc&repo=SFML-Collision&theme=dark" />
+      <a href="https://github.com/mateushrc/calculator-csharp">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mateushrc&repo=calculator-csharp&theme=dark" />
       </a>
     </td>
   </tr>
