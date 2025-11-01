@@ -5,9 +5,7 @@
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="48" alt="csharp logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="48" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="48" alt="python logo"  />
+  <img src="https://skillicons.dev/icons?i=dotnet" height="48" alt="dotnet logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="48" alt="github logo"  />
   <img width="12" />
@@ -47,7 +45,7 @@
 
 ###
 
-<h4 align="left">Welcome to my profile!<br><br>📖 Knowledge: Backend Developer and GameDev | C#, C++, Python | Git and GitHub<br>💪 Name: Mateus Henrique Ribeiro Caldas<br>✨ Age: 16 years old<br><br>🧠 About Me<br><br>I’m a programmer and pixel artist with a strong interest in game development and technology. I’m curious about several areas of programming, especially C#, C++, and Python.<br><br>I enjoy creating, experimenting, and understanding how things work from game mechanics to software systems. I’m also interested in science, mathematics, and everything that involves logic and creativity.<br><br>Currently, I’m focusing on learning more about backend development and game development while improving my skills as a programmer.</h4>
+<h4 align="left">Welcome to my profile!<br><br>📖 Knowledge: 💻 Dev Backend C# | GameDev | .NET, SQL, Entity Framework | Git & GitHub<br>💪 Name: Mateus Henrique Ribeiro Caldas<br>✨ Age: 16 years old<br><br>🧠 About Me<br><br>I am a backend developer focused on C# and .NET, with one year of experience in personal projects and continuous learning. I started in the field at the age of 15, developing my own games and improving my programming logic, and over time I decided that I wanted to pursue a career as a developer.</h4>
 
 ###
 
@@ -65,7 +63,7 @@
   <a href="https://www.instagram.com/mat3us.hrc/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/mateus-henrique-ribeiro-caldas/" target="_blank">
+  <a href="https://www.linkedin.com/in/mateushrc/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <a href="https://www.youtube.com/@spookendev" target="_blank">
