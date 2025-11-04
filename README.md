@@ -30,13 +30,13 @@
       </a>
     </td>
     <td>
-      <a href="https://github.com/mateushrc/texteditor-csharp">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mateushrc&repo=texteditor-csharp&theme=midnight-purple"/>
+      <a href="https://github.com/mateushrc/stopwatch-csharp">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mateushrc&repo=stopwatch-csharp&theme=midnight-purple"/>
       </a>
     </td>
     <td>
-      <a href="https://github.com/mateushrc/stopwatch-csharp">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mateushrc&repo=stopwatch-csharp&theme=midnight-purple"/>
+      <a href="https://github.com/mateushrc/passwordGenerator-csharp">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mateushrc&repo=passwordGenerator-csharp&theme=midnight-purple"/>
       </a>
     </td>
   </tr>
