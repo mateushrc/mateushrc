@@ -25,12 +25,12 @@
 <table>
   <tr>
     <td>
-      <a href="https://github.com/mateushrc/to-do-list-csharp">
+      <a href="https://github.com/mateushrc/projetos-csharp">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=mateushrc&repo=projetos-csharp&theme=vision-friendly-dark"/>
       </a>
     </td>
     <td>
-      <a href="https://github.com/mateushrc/passwordGenerator-csharp">
+      <a href="https://github.com/mateushrc/to-do-list-csharp">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=mateushrc&repo=to-do-list-csharp&theme=vision-friendly-dark"/>
       </a>
     </td>
