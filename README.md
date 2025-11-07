@@ -30,13 +30,13 @@
       </a>
     </td>
     <td>
-      <a href="https://github.com/mateushrc/to-do-list-csharp">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mateushrc&repo=to-do-list-csharp&theme=vision-friendly-dark"/>
+      <a href="https://github.com/mateushrc/loginSystem-csharp">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mateushrc&repo=loginSystem-csharp&theme=vision-friendly-dark"/>
       </a>
     </td>
     <td>
-      <a href="https://github.com/mateushrc/loginSystem-csharp">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mateushrc&repo=loginSystem-csharp&theme=vision-friendly-dark"/>
+      <a href="https://github.com/mateushrc/libraryManagementSystem-csharp">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mateushrc&repo=libraryManagementSystem-csharp&theme=vision-friendly-dark"/>
       </a>
     </td>
   </tr>
