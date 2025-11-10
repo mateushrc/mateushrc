@@ -5,7 +5,7 @@
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="48" alt="csharp logo"/>
   <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=dotnet" height="48" alt="dotnet logo"  />
+  <img src="https://skillicons.dev/icons?i=dotnet" height="48" alt="dotnet logo"/>
   <img width="12"/>
   <img src="https://skillicons.dev/icons?i=github" height="48" alt="github logo"/>
   <img width="12"/>
