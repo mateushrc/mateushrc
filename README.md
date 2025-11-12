@@ -30,13 +30,13 @@
       </a>
     </td>
     <td>
-      <a href="https://github.com/mateushrc/LeetCode-csharp">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mateushrc&repo=LeetCode-csharp&theme=vision-friendly-dark"/>
+      <a href="https://github.com/mateushrc/FileManager-csharp">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mateushrc&repo=FileManager-csharp&theme=vision-friendly-dark"/>
       </a>
     </td>
     <td>
-      <a href="https://github.com/mateushrc/FileManager-csharp">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mateushrc&repo=FileManager-csharp&theme=vision-friendly-dark"/>
+      <a href="https://github.com/mateushrc/ValidateEmail-csharp">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mateushrc&repo=ValidateEmail-csharp&theme=vision-friendly-dark"/>
       </a>
     </td>
   </tr>
