@@ -45,7 +45,7 @@
 
 ###
 
-<h4 align="left">Welcome to my profile!<br><br>📖 Knowledge: 💻 Dev Backend C# | GameDev | .NET, SQL, Entity Framework | Git & GitHub<br>💪 Name: Mateus Henrique Ribeiro Caldas<br>✨ Age: 16 years old<br><br>🧠 About Me<br><br>I am a backend developer focused on C# and .NET, with one year of experience in personal projects and continuous learning. I started in the field at the age of 15, developing my own games and improving my programming logic, and over time I decided that I wanted to pursue a career as a developer.</h4>
+<h4 align="left">Welcome to my profile!<br><br>📖 Knowledge: 💻 Dev Backend C# | GameDev | .NET, MySQL, Entity Framework | Git & GitHub<br>💪 Name: Mateus Henrique Ribeiro Caldas<br>✨ Age: 16 years old<br><br>🧠 About Me<br><br>I am a backend developer focused on C# and .NET, with one year of experience in personal projects and continuous learning. I started in the field at the age of 15, developing my own games and improving my programming logic, and over time I decided that I wanted to pursue a career as a developer.</h4>
 
 ###
 
