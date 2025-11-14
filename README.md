@@ -35,8 +35,8 @@
       </a>
     </td>
     <td>
-      <a href="https://github.com/mateushrc/ValidateEmail-csharp">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mateushrc&repo=ValidateEmail-csharp&theme=vision-friendly-dark"/>
+      <a href="https://github.com/mateushrc/LibraryAPI-csharp">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mateushrc&repo=LibraryAPI-csharp&theme=vision-friendly-dark"/>
       </a>
     </td>
   </tr>
