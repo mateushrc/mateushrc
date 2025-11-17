@@ -25,8 +25,8 @@
 <table>
   <tr>
     <td>
-      <a href="https://github.com/mateushrc/projetos-csharp">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mateushrc&repo=projetos-csharp&theme=vision-friendly-dark"/>
+      <a href="https://github.com/mateushrc/LibraryAPI-csharp">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mateushrc&repo=LibraryAPI-csharp&theme=vision-friendly-dark"/>
       </a>
     </td>
     <td>
@@ -35,8 +35,8 @@
       </a>
     </td>
     <td>
-      <a href="https://github.com/mateushrc/LibraryAPI-csharp">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mateushrc&repo=LibraryAPI-csharp&theme=vision-friendly-dark"/>
+      <a href="https://github.com/mateushrc/Projects-csharp">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mateushrc&repo=Projects-csharp&theme=vision-friendly-dark"/>
       </a>
     </td>
   </tr>
@@ -45,7 +45,23 @@
 
 ###
 
-<h4 align="left">Welcome to my profile!<br><br>📖 Knowledge: 💻 Dev Backend C# | GameDev | .NET, MySQL, Entity Framework | Git & GitHub<br>💪 Name: Mateus Henrique Ribeiro Caldas<br>✨ Age: 16 years old<br><br>🧠 About Me<br><br>I am a backend developer focused on C# and .NET, with one year of experience in personal projects and continuous learning. I started in the field at the age of 15, developing my own games and improving my programming logic, and over time I decided that I wanted to pursue a career as a developer.</h4>
+---
+
+<h4 align="left">
+Welcome to my profile!<br><br>
+
+📖 Knowledge:  
+💻 Backend Developer (C#) | GameDev | .NET, MySQL, Entity Framework | Git & GitHub  
+💪 Name: Mateus Henrique Ribeiro Caldas  
+✨ Age: 16 years old  
+<br>
+
+🧠 About Me<br><br>
+I am a backend developer focused on C# and .NET, with one year of experience in personal projects and software development studies.
+I started programming at age 15, creating my own games and honing my logic, and over time I realized I wanted to pursue a career as a developer.
+
+I am constantly improving my skills, learning best practices, and working on more structured and professional projects.
+</h4>
 
 ###
 
