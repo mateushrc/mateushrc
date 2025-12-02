@@ -48,7 +48,7 @@
 
 ###
 
-<h2align="center">🧠 About Me</h2>
+<h2 align="center">🧠 About Me</h2>
 
 I'm a **Back-end Developer** focused on **C#** and **.NET**, with one year of experience in personal projects and continuous learning.
 
