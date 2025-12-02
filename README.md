@@ -18,6 +18,10 @@
   <img src="https://skillicons.dev/icons?i=unity" height="48" alt="unity logo"/>
   <img width="12"/>
   <img src="https://skillicons.dev/icons?i=azure" height="48" alt="azure logo"/>
+  <img width="12">
+  <img src="https://skillicons.dev/icons?i=html" height="48" alt="html logo"/>
+  <img width="12">
+  <img src="https://skillicons.dev/icons?i=css" height="48" alt="css logo"/>
 </div>
 
 <h2 align="center">🚀 My Recents Projects</h2>
@@ -48,15 +52,16 @@
 ---
 
 <h4 align="left">
-Welcome to my profile!<br><br>
-
+Welcome to my profile!
+<br><br>
 📖 Knowledge:  
-💻 Backend Developer (C#) | GameDev | .NET, MySQL, Entity Framework | Git & GitHub  
+💻 Backend Developer (C#) | .NET, MySQL, Entity Framework | Git & GitHub  
 💪 Name: Mateus Henrique Ribeiro Caldas  
 ✨ Age: 16 years old  
 <br>
-
-🧠 About Me<br><br>
+  
+🧠 About Me 
+<br><br>
 I am a backend developer focused on C# and .NET, with one year of experience in personal projects and software development studies.
 I started programming at age 15, creating my own games and honing my logic, and over time I realized I wanted to pursue a career as a developer.
 
